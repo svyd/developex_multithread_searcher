@@ -1,6 +1,6 @@
 Test task
 
-Application, that allow you to search a text on web-pages
+Application, that allow you search a text on web-pages
 <h2>Input parameters:</h2>
 * Base Url
 * Text to search
