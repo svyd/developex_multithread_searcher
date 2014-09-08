@@ -12,6 +12,7 @@ Start/Stop buttons and ProgressBar indicator
 For detail description see <a href="../../raw/master/data/Final_test_for_Windows_Linux_Mac_Mobile.pdf"><b>Final_test_for_Windows_Linux_Mac_Mobile.pdf</b></a> file in data folder
 
 How it works (YouTube demo):
+Also available here http://youtu.be/ZJIlR3A9m8I
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZJIlR3A9m8I
 " target="_blank"><img src="http://img.youtube.com/vi/ZJIlR3A9m8I/0.jpg"
