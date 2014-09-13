@@ -1,6 +1,6 @@
 Test task
 
-Application, that allow you search a text on web-pages
+Application, that allow you search a text on web-pages (Implemented using Volley library)
 <h2>Input parameters:</h2>
 * Base Url
 * Text to search
